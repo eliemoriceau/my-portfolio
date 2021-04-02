@@ -58,22 +58,14 @@ module.exports = {
       url: "https://www.linkedin.com/in/konstantin-muenster/",
     },
     {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
-    },
-    {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/eliemoriceau",
     },
     {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
+      name: "Mail",
+      url: "elie@moriceau.dev",
     },
-    // {
-    //   name: "Mail",
-    //   url: "mailto:mail@konstantin.digital",
-    // },
   ],
 
   //-- NAVIGATION SETTINGS -----
